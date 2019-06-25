@@ -377,10 +377,10 @@ h5, h6          { font-weight: bolder }
     z-index: 77;
     color: #454545;
     font-family: "raleway-regular", arial;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: .5px;
-    border-bottom: 1px solid #bfbbbb;
-    border-top: 1px solid #bfbbbb;
+    /* border-bottom: 1px solid #bfbbbb;
+    border-top: 1px solid #bfbbbb; */
 }
 
 .main .gallery-container{
